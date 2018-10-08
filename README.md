@@ -1,0 +1,2 @@
+# Classification-des-avis-selon-le-type-de-commentaire-sur-le-site-Tripadvisor
+Ce projet consiste a appliquer les techniques d’apprentissage automatique afin d'analyser et classifier les commentaires des utilisateurs (sur le site web TripAdvisor) selon l’avis donné. Pour l'apprentissage automatique, j’ai utilisé le Réseau de neurones artificiels (ANN). Si l’avis donné est un avis sur un hotel, le résultat final de l’algorithme est : class hotel, si l’avis donné est un avis sur un restaurant le résultat est : class restaurant.
